@@ -1,0 +1,59 @@
+body {
+	background-image: url("https://static.planetminecraft.com/files/resource_media/screenshot/1821/478864598-1527284227.jpg");
+    font-family: 'Righteous', cursive;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.holder {
+    position: relative;
+    margin-right: 5px;
+    float: left;
+}
+
+.jumbotron {
+    background-image: url("http://orig10.deviantart.net/e8d7/f/2013/147/0/b/dc_marvel_minimalistic_dual_by_bbboz-d66v4wg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+}
+
+button {
+    margin-right: 10px;
+}
+
+.text {
+    border: 2px;
+    border-style: solid;
+    background-color: rgb(240, 90, 80);
+    margin-top: 5px;
+    font-size: 22px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+img {
+	max-width: 300px;
+	max-height: 300px;
+}
+
+p {
+    color: white;
+    border: 2px;
+    border-style: solid;
+    background-color: rgb(245, 132, 124);
+}
+
+.jumbotron h1 {
+    color: rgb(245, 132, 124);
+    font-weight: bold;
+    z-index: 1;
+}
+
+.jumbotron {
+    border: 3px solid #fff;
+}
