@@ -10,9 +10,11 @@ With every gif is displayed its rating (PG, G, etc.).
 GIPHY is an animated GIF search engine. The GIPHY API is a series of JSON read endpoints that allow you to integrate the features of GIPHY's search engine into your project or app.
 
 Technologies Used
-HTML
-CSS Bootstrap
-JavaScript to make the page dynamic
-jQuery for Dom Manipulation
-AJAX for API GET requests
+<ul>
+<li>HTML</li>
+<li>CSS Bootstrap</li>
+<li>JavaScript to make the page dynamic</li>
+<li>jQuery for Dom Manipulation</li>
+<li>AJAX for API GET requests</li>
+</ul>
 
