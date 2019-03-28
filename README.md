@@ -1,6 +1,6 @@
 # superheroes-giphy
 
-https://nantourakis.github.io/superheroes-giphy/
+https://nantourakis.github.io/superheroes-giphyy/
 
 Enter your favorite superhero into the user input box, your input then gets pushed into an array from which it creates buttons in the HTML. Clicking on a button grabs 10 static, non-animated gif images from the GIPHY API and places them on the page.
 When the user clicks one of the still GIPHY images, the gif should animate.
